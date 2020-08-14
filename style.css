@@ -12,11 +12,14 @@ input {
 }
 
 .container {
+  
   position: relative;
   width: 100%;
   background-color: #fff;
   min-height: 100vh;
   overflow: hidden;
+
+
 }
 
 .forms-container {
@@ -25,6 +28,7 @@ input {
   height: 100%;
   top: 0;
   left: 0;
+  
 }
 
 .signin-signup {
@@ -397,4 +401,5 @@ form.sign-in-form {
     bottom: 28%;
     left: 50%;
   }
+  
 }
